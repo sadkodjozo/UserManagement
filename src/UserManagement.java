@@ -193,7 +193,7 @@ import javax.swing.table.TableModel;
 		
 		User user1 = new User("1", "Sadko", "Djozo", "Premium", "061111222");
 		User user2 = new User("2", "Amer", "Zildzic", "Light", "06222111");
-		User user3 = new User("3", "Elisabeth", "Smitt", "Full", "061111222");
+		User user3 = new User("3", "Jane", "Smitt", "Full", "061111222");
 		
 	    List<User> usersList = new ArrayList<>();
 		
